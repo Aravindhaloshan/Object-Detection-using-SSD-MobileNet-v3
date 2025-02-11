@@ -19,7 +19,7 @@ Ensure you have the following installed before running the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aravindha Loshan/object-detection.git
+   git clone https://github.com/Aravindhaloshan/Object-Detection-using-SSD-MobileNet-v3.git
    cd object-detection
 
 2. Install dependencies:
